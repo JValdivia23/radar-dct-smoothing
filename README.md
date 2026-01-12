@@ -43,16 +43,15 @@ To reproduce the figures from the paper using synthetic data:
 
 ## Citation
 
-If you use this code, please cite:
+If you use this code, please cite both the paper and the software:
 
-```bibtex
-@article{YourName202x,
-  title={Radar Data Smoothing using the Discrete Cosine Transform},
-  author={Your Name and Co-authors},
-  journal={Atmospheric Measurement Techniques},
-  year={202x}
-}
-```
+**Paper:**
+Valdivia, J. M., Chapman, W., and Friedrich, K.: Radar Data Smoothing using the Discrete Cosine Transform: A Fast Spectral Domain Algorithm, *Atmos. Meas. Tech.* (submitted), 2026.
+
+**Software:**
+Valdivia, J. M.: Radar-DCT-Smoothing: v1.0.0, Zenodo, https://doi.org/10.5281/zenodo.18226677, 2026.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18226677.svg)](https://doi.org/10.5281/zenodo.18226677)
 
 ## License
 

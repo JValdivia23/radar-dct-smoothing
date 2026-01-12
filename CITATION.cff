@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Valdivia"
+  given-names: "Jairo M."
+  orcid: "https://orcid.org/0000-0002-3498-5000"
+title: "Radar-DCT-Smoothing: A fast spectral domain algorithm for smoothing radar data"
+version: v1.0.0
+doi: 10.5281/zenodo.18226677
+date-released: 2026-01-12
+url: "https://github.com/JValdivia23/radar-dct-smoothing"
