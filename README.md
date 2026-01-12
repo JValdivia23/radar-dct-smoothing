@@ -2,7 +2,7 @@
 
 A fast spectral domain algorithm for smoothing radar data in polar coordinates.
 
-This repository implements the method described in *[Paper Title TBD]* (submitted to AMT). By operating in the spectral domain using the Discrete Cosine Transform (DCT), this method effectively handles the varying physical width of azimuth beams ("pie slice" distortion) with **$O(N \log N)$ complexity**, achieving up to **800x speedup** over traditional spatial convolution.
+This repository implements the method described in **"Radar Data Smoothing using the Discrete Cosine Transform: A Fast Spectral Domain Algorithm"** (submitted to *Atmos. Meas. Tech.*). By operating in the spectral domain using the Discrete Cosine Transform (DCT), this method effectively handles the varying physical width of azimuth beams ("pie slice" distortion) with **$O(N \log N)$ complexity**, achieving up to **800x speedup** over traditional spatial convolution.
 
 ## Features
 - **Fast**: Spectral domain implementation using FFT.
